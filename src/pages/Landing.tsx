@@ -410,7 +410,7 @@ function Landing() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Abrir no Google Maps
+                Google Maps
               </a>
             </div>)
           }
@@ -418,7 +418,7 @@ function Landing() {
       </div> {/*content*/}
       <div className="credits">
         by&nbsp;
-        <a href="https://github.com/joaovictornsv" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/angais" target="_blank" rel="noopener noreferrer">
           <strong>Gabriel Almeida</strong>
         </a>
       </div>

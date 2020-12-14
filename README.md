@@ -1,4 +1,4 @@
-# Climaco
+# Climaco - Weather Forecast
 
 *Aplicação* e ferramenta objetiva para previsão de *tempo*!
 
